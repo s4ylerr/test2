@@ -9,7 +9,7 @@ $arr = array(array());
 for ($i=0; $i <$m ; $i++) { 
 	for ($j=0; $j < $n; $j++) { 
 		$arr[$i][$j] = $num;
-		$num +=2;
+		$num ++;
 	}
 }
 
